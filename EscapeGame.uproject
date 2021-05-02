@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004B3A7-08D9-03EC-5DF8-B1442ADC4DFA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EscapeGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
